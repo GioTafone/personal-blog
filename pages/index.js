@@ -20,7 +20,6 @@ export default function Home({ posts }) {
       <Head>
         <title>Vivi Blog</title>
         <link rel="icon" href="/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&family=The+Nautigal&display=swap" rel="stylesheet"></link>
       </Head>
       <div className='flex flex-col'>
         <RecentPosts />

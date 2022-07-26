@@ -18,7 +18,7 @@ const NavBar = () => {
         <div className='px-10 border-b w-full border-custom-zinc py-12'>
             <div className='flex justify-center pb-5'>
                 <Link href='/'>
-                    <span className='cursor-pointer text-[80px] font-Nautigal'>
+                    <span className='cursor-pointer text-[80px] font-Pompiere'>
                         Vivi Blog
                     </span>
                 </Link>
